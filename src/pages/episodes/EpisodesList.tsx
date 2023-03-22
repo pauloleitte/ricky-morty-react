@@ -66,7 +66,7 @@ export function EpisodesList() {
     </section>
   ) : (
     <p>
-      <i>No characters</i>
+      <i>No episodes</i>
     </p>
   );
 }
